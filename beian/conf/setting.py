@@ -3,14 +3,14 @@
 
 
 # all api url info
-url_base_service = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/service/list/"
-url_base_node = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/node/list/"
-url_base_pop = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/pop/list/"
-url_base_pad_in_service = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/get_service_info/"
-url_base_all_site = "https://pantherapi.cdnetworks.com/rest/cdn/" + oui_rest_account + "/site/list/"
-url_base_customer = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/customer/list/"
-url_base_user = "https://pantherapi.cdnetworks.com/rest/cdn/" + oui_rest_account + "/user/list/"
-url_base_vip_in_service = "https://pantherapi.cdnetworks.com/rest/int/" + oui_rest_account + "/get_service_vip/"
+url_base_service = "https://pantherapi/rest/int/" + oui_rest_account + "/service/list/"
+url_base_node = "https://pantherapi/rest/int/" + oui_rest_account + "/node/list/"
+url_base_pop = "https://pantherapi/rest/int/" + oui_rest_account + "/pop/list/"
+url_base_pad_in_service = "https://pantherapi/rest/int/" + oui_rest_account + "/get_service_info/"
+url_base_all_site = "https://pantherapi/rest/cdn/" + oui_rest_account + "/site/list/"
+url_base_customer = "https://pantherapi/rest/int/" + oui_rest_account + "/customer/list/"
+url_base_user = "https://pantherapi/rest/cdn/" + oui_rest_account + "/user/list/"
+url_base_vip_in_service = "https://pantherapi/rest/int/" + oui_rest_account + "/get_service_vip/"
 
 #beian api
 wsdl_url = "http://60.00.000.74:43392/?wsdl"
